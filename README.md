@@ -31,4 +31,9 @@ This lightweight, high-performance chatbot is built using **Python** and **FastA
 git clone https://github.com/your-username/chatbot-api.git
 cd chatbot-api
 
+pip install SentenceTransformer fastapi numpy  faiss CORSMiddleware pydantic ollama
+
+Run server
+uvicorn app.main:app --reload
+
 
