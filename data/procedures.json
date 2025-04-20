@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Student ID",
+    "description": "To get a student ID, go to the Principal Administration Office with your registration receipt."
+  },
+  {
+    "title": "Course Registration",
+    "description": "For course registration, visit the Preparatory Department administration office and complete the registration form provided."
+  },
+  {
+    "title": "Transcript Request",
+    "description": "To request a transcript, go to the Principal Administration and fill out the official transcript request form. It usually takes 3 working days."
+  },
+  {
+    "title": "Exam Schedule Inquiry",
+    "description": "Exam schedules for math courses can be obtained from the Math Department notice board or the department secretary."
+  },
+  {
+    "title": "Wi-Fi Access Assistance",
+    "description": "For help with Wi-Fi or login issues, visit the Info Department's IT support desk on the first floor."
+  },
+  {
+    "title": "Classroom Change Request",
+    "description": "To request a classroom change in the Preparatory Department, speak with the academic coordinator in their office."
+  },
+  {
+    "title": "Lost and Found",
+    "description": "Lost items around the campus should be reported to or retrieved from the Principal Administration. or you can use your campus online platfrom to report the item"
+  },
+  {
+    "title": "Project Submission",
+    "description": "Final year project submissions for Info students must be handed in to the Info Department's secretary before the stated deadline."
+  },
+  {
+    "title": "Scholarship Application",
+    "description": "Scholarship forms and related inquiries should be directed to the Principal Administration's financial aid section."
+  },
+  {
+    "title": "Lab Access Pass",
+    "description": "To access specialized computer labs in the Info Department, students must request a lab pass from the lab supervisor."
+  }
+]
